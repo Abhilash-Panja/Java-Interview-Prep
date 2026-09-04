@@ -4,53 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51160643-87c6-4b00-b554-863849a42b4d" name="Changes" comment="" />
+    <list default="true" id="51160643-87c6-4b00-b554-863849a42b4d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Abhilash-Panja"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Abhilash-Panja&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Abhilash-Panja/Java-Interview-Prep.git",
-    "accountId": "9294896e-38c2-44d2-aaac-488815fee19d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Abhilash-Panja/Java-Interview-Prep.git&quot;,
+    &quot;accountId&quot;: &quot;9294896e-38c2-44d2-aaac-488815fee19d&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0004474220769835" />
-      <entry key="MS500" value="1.7145367750489264" />
-      <entry key="S2" value="6.470853311503793" />
-      <entry key="S5" value="13.53425298366431" />
-      <entry key="S10" value="20.114160395496032" />
-      <entry key="S30" value="28.079882635285788" />
-      <entry key="S60" value="30.83241345907856" />
-      <entry key="M2" value="32.35998285156269" />
-      <entry key="M5" value="33.32989822196583" />
-      <entry key="M10" value="33.662547830238054" />
-      <entry key="M15" value="33.774494332692136" />
-      <entry key="M30" value="33.88697739790612" />
-      <entry key="H1" value="33.94342107026907" />
-      <entry key="H2" value="33.97169360458108" />
-      <entry key="H4" value="33.98584256672556" />
-      <entry key="D1" value="33.9976398392661" />
-      <entry key="W1" value="33.99966281976488" />
+      <entry key="MS100" value="1.0098887233903928" />
+      <entry key="MS500" value="1.397217563842977" />
+      <entry key="S2" value="1.8380340672539166" />
+      <entry key="S5" value="2.452863080265943" />
+      <entry key="S10" value="3.2235755379623994" />
+      <entry key="S30" value="4.267377935600967" />
+      <entry key="S60" value="4.846563608363605" />
+      <entry key="M2" value="5.504042581479011" />
+      <entry key="M5" value="6.239645517454869" />
+      <entry key="M10" value="6.594416527074631" />
+      <entry key="M15" value="6.893775004372188" />
+      <entry key="M30" value="10.406546595284636" />
+      <entry key="H1" value="23.0406103444512" />
+      <entry key="H2" value="41.44051733136177" />
+      <entry key="H4" value="57.47209764338055" />
+      <entry key="D1" value="76.42534916452021" />
+      <entry key="W1" value="80.32839532339794" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -72,29 +71,29 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9663728084657486" />
-      <entry key="MS500" value="1.703516587618679" />
-      <entry key="S2" value="6.458197117588424" />
-      <entry key="S5" value="13.518427438952758" />
-      <entry key="S10" value="20.099094376165247" />
-      <entry key="S30" value="28.071448408685754" />
-      <entry key="S60" value="30.827562094870654" />
-      <entry key="M2" value="32.35737729022044" />
-      <entry key="M5" value="33.32880978674306" />
-      <entry key="M10" value="33.66199564337607" />
-      <entry key="M15" value="33.774124416832585" />
-      <entry key="M30" value="33.886791539196935" />
-      <entry key="H1" value="33.94332791475154" />
-      <entry key="H2" value="33.97164697016014" />
-      <entry key="H4" value="33.98581923533435" />
-      <entry key="D1" value="33.99763594873004" />
-      <entry key="W1" value="33.99966226392574" />
+      <entry key="MS100" value="0.8614855471218301" />
+      <entry key="MS500" value="1.357122179895934" />
+      <entry key="S2" value="1.8251431906165547" />
+      <entry key="S5" value="2.4441335791676106" />
+      <entry key="S10" value="3.2164579460388065" />
+      <entry key="S30" value="4.263616385881404" />
+      <entry key="S60" value="4.844133449591355" />
+      <entry key="M2" value="5.502438721738968" />
+      <entry key="M5" value="6.238815840321154" />
+      <entry key="M10" value="6.593956203010527" />
+      <entry key="M15" value="6.893454906721484" />
+      <entry key="M30" value="10.406362661015027" />
+      <entry key="H1" value="23.040483468864863" />
+      <entry key="H2" value="41.440429051643996" />
+      <entry key="H4" value="57.472042727079184" />
+      <entry key="D1" value="76.42533789108404" />
+      <entry key="W1" value="80.32839365054204" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3IrQ7cU3MWzYBSzPvQs80nCq8VR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -108,6 +107,7 @@
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -124,6 +124,19 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java Interview Prep" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java Interview Prep" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
