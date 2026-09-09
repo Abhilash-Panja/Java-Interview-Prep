@@ -1,4 +1,4 @@
-# 02-OOP.md — Object-Oriented Programming Interview Mastery
+# OOP — Object-Oriented Programming Interview Mastery
 
 ## Module Roadmap
 
